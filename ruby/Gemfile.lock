@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/feelepxyz/test-dep
+  revision: 9936aa0e96cf959405e0605f0c8be8250d9500f2
+  tag: v1.0.0
+  specs:
+    test-dep (1.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -9,6 +16,7 @@ PLATFORMS
 
 DEPENDENCIES
   business (~> 1.0.0)
+  test-dep!
   uk_phone_numbers (~> 0.1.0)
 
 BUNDLED WITH
