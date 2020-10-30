@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/feelepxyz/test-dep
-  revision: 9936aa0e96cf959405e0605f0c8be8250d9500f2
-  tag: v1.0.0
+  revision: 6c0aec605dbb495ae1068d68311def41ca3b13c1
+  tag: v1.0.1
   specs:
-    test-dep (1.0.0)
+    test-dep (1.0.1)
 
 GEM
   remote: https://rubygems.org/
