@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
 gem "business", "~> 1.0.0"
-gem "uk_phone_numbers", "~> 0.1.0"
+gem "uk_phone_numbers", "~> 0.1.1"
 gem "test-dep", git: "https://github.com/feelepxyz/test-dep", tag: "v1.0.0"

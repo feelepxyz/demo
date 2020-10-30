@@ -9,7 +9,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     business (1.0.0)
-    uk_phone_numbers (0.1.0)
+    uk_phone_numbers (0.1.1)
 
 PLATFORMS
   ruby
@@ -17,7 +17,7 @@ PLATFORMS
 DEPENDENCIES
   business (~> 1.0.0)
   test-dep!
-  uk_phone_numbers (~> 0.1.0)
+  uk_phone_numbers (~> 0.1.1)
 
 BUNDLED WITH
    1.17.3
